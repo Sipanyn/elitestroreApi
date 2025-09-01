@@ -7,7 +7,8 @@
       "discount": 20,
       "src": "https://elitestrore-api.vercel.app/images/photo-1505740420928-5e560c06d30e.jpg",
       "price": 249,
-      "new": false
+      "new": false,
+      "category": "Electronics"
     },
     {
       "id": 2,
@@ -16,7 +17,8 @@
       "discount": 0,
       "src": "https://elitestrore-api.vercel.app/images/photo-1521572163474-6864f9cf17ab.jpg",
       "price": 29,
-      "new": true
+      "new": true,
+      "category": "Clothing"
     },
     {
       "id": 3,
@@ -25,7 +27,8 @@
       "discount": 0,
       "src": "https://elitestrore-api.vercel.app/images/photo-1532012197267-da84d127e765.jpg",
       "price": 45,
-      "new": false
+      "new": false,
+      "category": "Books"
     },
     {
       "id": 4,
@@ -34,7 +37,8 @@
       "discount": 26,
       "src": "https://elitestrore-api.vercel.app/images/photo-1558002038-1055907df827.jpg",
       "price": 120,
-      "new": false
+      "new": false,
+      "category": "Electronics"
     },
     {
       "id": 5,
@@ -43,7 +47,8 @@
       "discount": 0,
       "src": "https://elitestrore-api.vercel.app/images/photo-1416879595882-3373a0480b5b.jpg",
       "price": 34,
-      "new": true
+      "new": true,
+      "category": "Home & Garden"
     },
     {
       "id": 6,
@@ -52,7 +57,8 @@
       "discount": 0,
       "src": "https://elitestrore-api.vercel.app/images/photo-1542291026-7eec264c27ff.jpg",
       "price": 124,
-      "new": false
+      "new": false,
+      "category": "Sports"
     },
     {
       "id": 7,
@@ -61,7 +67,8 @@
       "discount": 20,
       "src": "https://elitestrore-api.vercel.app/images/photo-1596462502278-27bfdc403348.jpg",
       "price": 98,
-      "new": false
+      "new": false,
+      "category": "Beauty"
     },
     {
       "id": 8,
@@ -70,7 +77,8 @@
       "discount": 0,
       "src": "https://elitestrore-api.vercel.app/images/photo-1551028719-00167b16eac5.jpg",
       "price": 69,
-      "new": false
+      "new": false,
+      "category": "Clothing"
     }
   ]
 }
