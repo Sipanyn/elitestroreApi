@@ -5,7 +5,7 @@
       "title": "Premium Wireless Headphones",
       "rate": 4,
       "discount": 20,
-      "src": "",
+      "src": "https://elitestrore-api.vercel.app/products/images/photo-1505740420928-5e560c06d30e.jpg",
       "price": 249,
       "new": false
     },
@@ -14,7 +14,7 @@
       "title": "Designer Cotton T-Shirt",
       "rate": 4,
       "discount": 0,
-      "src": "",
+      "src": "https://elitestrore-api.vercel.app/products/images/photo-1521572163474-6864f9cf17ab.jpg",
       "price": 29,
       "new": true
     },
@@ -23,7 +23,7 @@
       "title": "JavaScript: The Definitive Guide",
       "rate": 4,
       "discount": 0,
-      "src": "",
+      "src": "https://elitestrore-api.vercel.app/products/images/photo-1532012197267-da84d127e765.jpg",
       "price": 45,
       "new": false
     },
@@ -32,7 +32,7 @@
       "title": "Smart Home Security Camera",
       "rate": 4,
       "discount": 26,
-      "src": "",
+      "src": "https://elitestrore-api.vercel.app/products/images/photo-1558002038-1055907df827.jpg",
       "price": 120,
       "new": false
     },
@@ -41,7 +41,7 @@
       "title": "Organic Garden Planter Set",
       "rate": 4,
       "discount": 0,
-      "src": "",
+      "src": "https://elitestrore-api.vercel.app/products/images/photo-1416879595882-3373a0480b5b.jpg",
       "price": 34,
       "new": true
     },
@@ -50,7 +50,7 @@
       "title": "Professional Running Shoes",
       "rate": 4,
       "discount": 0,
-      "src": "",
+      "src": "https://elitestrore-api.vercel.app/products/images/photo-1542291026-7eec264c27ff.jpg",
       "price": 124,
       "new": false
     },
@@ -59,7 +59,7 @@
       "title": "Luxury Skincare Set",
       "rate": 4,
       "discount": 20,
-      "src": "",
+      "src": "https://elitestrore-api.vercel.app/products/images/photo-1596462502278-27bfdc403348.jpg",
       "price": 98,
       "new": false
     },
@@ -68,7 +68,7 @@
       "title": "Vintage Denim Jacket",
       "rate": 3,
       "discount": 0,
-      "src": "",
+      "src": "https://elitestrore-api.vercel.app/products/images/photo-1551028719-00167b16eac5.jpg",
       "price": 69,
       "new": false
     }
