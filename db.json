@@ -13,7 +13,7 @@
     {
       "id": 2,
       "title": "Designer Cotton T-Shirt",
-      "rate": 4,
+      "rate": 3,
       "discount": 0,
       "src": "https://elitestrore-api.vercel.app/images/photo-1521572163474-6864f9cf17ab.jpg",
       "price": 29,
@@ -23,7 +23,7 @@
     {
       "id": 3,
       "title": "JavaScript: The Definitive Guide",
-      "rate": 4,
+      "rate": 2,
       "discount": 0,
       "src": "https://elitestrore-api.vercel.app/images/photo-1532012197267-da84d127e765.jpg",
       "price": 45,
