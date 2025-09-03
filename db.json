@@ -8,7 +8,8 @@
       "src": "https://elitestrore-api.vercel.app/images/photo-1505740420928-5e560c06d30e.jpg",
       "price": 249,
       "new": false,
-      "category": "Electronics"
+      "category": "Electronics",
+      "count": 1
     },
     {
       "id": 2,
@@ -18,7 +19,8 @@
       "src": "https://elitestrore-api.vercel.app/images/photo-1521572163474-6864f9cf17ab.jpg",
       "price": 29,
       "new": true,
-      "category": "Clothing"
+      "category": "Clothing",
+      "count": 1
     },
     {
       "id": 3,
@@ -28,7 +30,8 @@
       "src": "https://elitestrore-api.vercel.app/images/photo-1532012197267-da84d127e765.jpg",
       "price": 45,
       "new": false,
-      "category": "Books"
+      "category": "Books",
+      "count": 1
     },
     {
       "id": 4,
@@ -38,7 +41,8 @@
       "src": "https://elitestrore-api.vercel.app/images/photo-1558002038-1055907df827.jpg",
       "price": 120,
       "new": false,
-      "category": "Electronics"
+      "category": "Electronics",
+      "count": 1
     },
     {
       "id": 5,
@@ -48,7 +52,8 @@
       "src": "https://elitestrore-api.vercel.app/images/photo-1416879595882-3373a0480b5b.jpg",
       "price": 34,
       "new": true,
-      "category": "Home & Garden"
+      "category": "Home & Garden",
+      "count": 1
     },
     {
       "id": 6,
@@ -58,7 +63,8 @@
       "src": "https://elitestrore-api.vercel.app/images/photo-1542291026-7eec264c27ff.jpg",
       "price": 124,
       "new": false,
-      "category": "Sports"
+      "category": "Sports",
+      "count": 1
     },
     {
       "id": 7,
@@ -68,7 +74,8 @@
       "src": "https://elitestrore-api.vercel.app/images/photo-1596462502278-27bfdc403348.jpg",
       "price": 98,
       "new": false,
-      "category": "Beauty"
+      "category": "Beauty",
+      "count": 1
     },
     {
       "id": 8,
@@ -78,7 +85,8 @@
       "src": "https://elitestrore-api.vercel.app/images/photo-1551028719-00167b16eac5.jpg",
       "price": 69,
       "new": false,
-      "category": "Clothing"
+      "category": "Clothing",
+      "count": 1
     }
   ]
 }
